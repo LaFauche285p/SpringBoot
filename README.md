@@ -39,3 +39,14 @@ Récupérer un instrument : Obtenir les détails d'un instrument spécifique.
 Récupérer tous les instruments : Obtenir la liste de tous les instruments.
 Mettre à jour un instrument : Modifier les informations d'un instrument existant.
 Supprimer un instrument : Supprimer un instrument de la base de données.
+
+Créer un groupe (POST)
+URL: http://localhost:8080/api/v1/groupes
+
+Récupérer tous les groupes
+URL: http://localhost:8080/api/v1/groupes
+Méthode: GET
+
+Supprimer un groupe
+URL: http://localhost:8080/api/v1/groupes/1
+Méthode: DELETE
